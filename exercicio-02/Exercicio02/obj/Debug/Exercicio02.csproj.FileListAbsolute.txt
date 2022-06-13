@@ -1,0 +1,10 @@
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe.config
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csprojAssemblyReference.cache
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\obj\Debug\Exercicio02.Properties.Resources.resources
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.GenerateResource.cache
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\obj\Debug\Exercicio02.exe
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\obj\Debug\Exercicio02.pdb
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercicio02\Exercicio02\obj\Debug\Exercicio02.Form1.resources

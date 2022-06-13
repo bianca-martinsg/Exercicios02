@@ -1,0 +1,48 @@
+c:\users\luizevangelista\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\luizevangelista\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\luizevangelista\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\luizevangelista\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\luizevangelista\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\luizevangelista\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\luizevangelista\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\luizevangelista\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\luizevangelista\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\LuizEvangelista\Google Drive\Eduardo\Serviços\FATEC\Anos\2018\Semestre 02\Programação em Microinformática\Aulas\Aula 10\Lista05_Exercicio01\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\LuizEvangelista\Google Drive\Eduardo\Serviços\FATEC\Anos\2018\Semestre 02\Programação em Microinformática\Aulas\Aula 10\Lista05_Exercicio01\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\LuizEvangelista\Google Drive\Eduardo\Serviços\FATEC\Anos\2018\Semestre 02\Programação em Microinformática\Aulas\Aula 10\Lista05_Exercicio01\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\LuizEvangelista\Google Drive\Eduardo\Serviços\FATEC\Anos\2018\Semestre 02\Programação em Microinformática\Aulas\Aula 10\Lista05_Exercicio01\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\LuizEvangelista\Google Drive\Eduardo\Serviços\FATEC\Anos\2018\Semestre 02\Programação em Microinformática\Aulas\Aula 10\Lista05_Exercicio01\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\LuizEvangelista\Google Drive\Eduardo\Serviços\FATEC\Anos\2018\Semestre 02\Programação em Microinformática\Aulas\Aula 10\Lista05_Exercicio01\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\LuizEvangelista\Google Drive\Eduardo\Serviços\FATEC\Anos\2018\Semestre 02\Programação em Microinformática\Aulas\Aula 10\Lista05_Exercicio01\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\LuizEvangelista\Google Drive\Eduardo\Serviços\FATEC\Anos\2018\Semestre 02\Programação em Microinformática\Aulas\Aula 10\Lista05_Exercicio01\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\LuizEvangelista\Google Drive\Eduardo\Serviços\FATEC\Anos\2018\Semestre 02\Programação em Microinformática\Aulas\Aula 10\Lista05_Exercicio01\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista05_Exercicio27\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista05_Exercicio27\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista05_Exercicio27\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista05_Exercicio27\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista05_Exercicio27\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista05_Exercicio27\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista05_Exercicio27\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista05_Exercicio27\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista05_Exercicio27\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista01_Exercicio28\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista01_Exercicio28\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\LuizEvangelista\Documents\Visual Studio 2015\Projects\Lista01_Exercicio28\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio31\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio31\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio31\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio31\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio31\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio31\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio31\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio31\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio31\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio33\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio33\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio33\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio33\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio33\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio33\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio33\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio33\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\rodrigo\Documents\Visual Studio 2015\Projects\Lista01_Exercicio33\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

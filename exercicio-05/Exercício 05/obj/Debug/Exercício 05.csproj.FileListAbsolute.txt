@@ -1,0 +1,10 @@
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\bin\Debug\Exercício 05.exe.config
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\bin\Debug\Exercício 05.exe
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\bin\Debug\Exercício 05.pdb
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\obj\Debug\Exercício 05.csprojAssemblyReference.cache
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\obj\Debug\Exercício_05.Exercício05.resources
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\obj\Debug\Exercício_05.Properties.Resources.resources
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\obj\Debug\Exercício 05.csproj.GenerateResource.cache
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\obj\Debug\Exercício 05.csproj.CoreCompileInputs.cache
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\obj\Debug\Exercício 05.exe
+C:\Users\Micheli\Desktop\Programação\Programação em Microinformática\VisualStudio\Exercício 05\Exercício 05\obj\Debug\Exercício 05.pdb
